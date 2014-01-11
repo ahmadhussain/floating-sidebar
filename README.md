@@ -3,6 +3,8 @@ floating-sidebar
 
 To use floating sidebar
 
+Add 'floating-sidebar' class to your div which you want to float.
+
 Include floating-sidebar.js and floating-sidebar.css
 
 Call load_sidebar(); function from javascript on document ready like this:
